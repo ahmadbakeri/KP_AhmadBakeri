@@ -1,0 +1,4 @@
+Hello, my name is Ahmad Bakeri. 
+I'm currently learning flutter from 1 years ago for my undergraduate thesis (S1). 
+My major is physics education from teacher and education department.
+I'm currently build mobile learning app for physics education.
